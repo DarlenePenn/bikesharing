@@ -22,6 +22,9 @@ Similar trends when broken down by gender, with more activity from me than women
 When looking at Customers (one time users) vs. Subscribers (riders who pay a regular fee to access the service) we cfan see that more users are male subscribers who take rides in the beginning and end of the week, with less actiivity on Sunday and Wednesday.
 ![User Trips by Gender per Weekday](/RidersByGenderPerWeekday.png)
 
-### Overall Usership
+### Overall Ridership
+In NY there were over 2million riders, with 75% being Subscribers. Peak hours were 5p and 8a, so its possible people use the bikes to commute to work.
+![Dashboard](/CustomersPeakHoursNumberofRides.png)
 
 ## Summary
+This is a solid business plan for Des Moines, as bikesharing can be used for both commuting workers, and casual riders on the weekends.
