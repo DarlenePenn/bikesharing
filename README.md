@@ -28,3 +28,5 @@ In NY there were over 2million riders, with 75% being Subscribers. Peak hours we
 
 ## Summary
 This is a solid business plan for Des Moines, as bikesharing can be used for both commuting workers, and casual riders on the weekends.
+
+Suggestions for additional analysis would be to look at how long trips were on the weekends vs. during the week. 
