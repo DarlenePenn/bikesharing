@@ -11,12 +11,12 @@ Most Bikes were checked out for a total of 5 minutes per trip, with a sharp drop
 ![Bike Checkout Duration for all Users](/CheckoutTimes.png)
 
 The same trend holds true when broken down by gender
-!(/TripDurationbyGender.png)
+![Bike Checkout Duration by Gender](/TripDurationbyGender.png)
 
-!(/CheckoutTimesper Weekday.png)
+![Bike Checkout per Day](/CheckoutTimesper Weekday.png)
 The most popular times of the day to checkout a bike for all users were Weekdays between 8a-9a, and between 5p-7p.  Wednesday evenings show a drop in riders.  Weekends showed a different pattern with more riders 11a-1p on Saturdays and 12p-4p on Sundays.
 
-!(/CheckoutTimesbyGenderPerWeekday.png)
+![Bike Checkout per Day by Gender](/CheckoutTimesbyGenderPerWeekday.png)
 Similar trends when broken down by gender, with more activity from me than women and unknown genders.
 
 ## Summary
