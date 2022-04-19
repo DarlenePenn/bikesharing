@@ -19,5 +19,9 @@ The most popular times of the day to checkout a bike for all users were Weekdays
 Similar trends when broken down by gender, with more activity from me than women and unknown genders.
 ![Bike Checkout per Day by Gender](/CheckoutTimesbyGenderPerWeekday.png)
 
+When looking at Customers (one time users) vs. Subscribers (riders who pay a regular fee to access the service) we cfan see that more users are male subscribers who take rides in the beginning and end of the week, with less actiivity on Sunday and Wednesday.
+![User Trips by Gender per Weekday](/RidersByGenderPerWeekday.png)
+
+### Overall Usership
 
 ## Summary
